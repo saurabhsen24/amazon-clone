@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Install [Nodejs](https://nodejs.org/en/) to your machine.
 
-### Installing
+### Installation
 
 - First clone the project from github using command
 
@@ -24,7 +24,7 @@ Install [Nodejs](https://nodejs.org/en/) to your machine.
 - Go inside `functions` folder as I have used firebase functions and use the following command for further installation ( use different terminal / command prompt ).
 
         npm install
-        npm start
+        firebase emulators:start
 
 ## Available Scripts
 
