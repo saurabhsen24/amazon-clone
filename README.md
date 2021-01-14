@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Amazon Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this clone with the help of [React](https://github.com/facebook/create-react-app) and [firebase](https://firebase.google.com/). Authentication and authorization of the user is also done with the help of firebase. I have used [Stripe](https://stripe.com/en-in) to add payment functionality.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisite(s)
+
+Install [Nodejs](https://nodejs.org/en/) to your machine.
+
+### Installing
+
+- First clone the project from github using command
+
+        git clone https://github.com/saurabhsen24/amazon-clone.git
+
+- Install all the packages using command
+
+      npm install
+      npm start
+
+- Go inside `functions` folder as I have used firebase functions and use the following command for further installation ( use different terminal / command prompt ).
+
+        npm install
+        npm start
 
 ## Available Scripts
 
